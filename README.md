@@ -6,3 +6,4 @@ This repository contains detailed i-python notebook of machine learning algorith
 3. support vector machine
 4. anomaly detection
 5. neural network
+6. K-means clustering
