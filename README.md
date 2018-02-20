@@ -7,3 +7,4 @@ This repository contains detailed i-python notebook of machine learning algorith
 4. anomaly detection
 5. neural network
 6. K-means clustering
+7. K nearest neighbor
